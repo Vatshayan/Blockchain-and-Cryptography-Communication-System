@@ -24,4 +24,4 @@ https://github.com/Vatshayan/Blockchain-and-Cryptography-Communication-System/bl
 
 Project is made by **me([Vatshayan](https://github.com/Vatshayan))**
 
-### Gmail : Vatshayan007@gmail.com
+### Gmail : vatshayan007@gmail.com
