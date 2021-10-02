@@ -5,5 +5,4 @@ Final Year Blockchain Project
 
 
 Updates:
-2 Oct 
-Architecture Diagram 
+Day : 2 Ocober (Architecture Diagram)
