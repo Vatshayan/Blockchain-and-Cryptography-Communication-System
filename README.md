@@ -18,6 +18,10 @@ Work Done 2:  2 Ocober (Architecture Diagram)
 https://github.com/Vatshayan/Blockchain-and-Cryptography-Communication-System/blob/main/Untitled%20Diagram.jpg
 
 
-Project is made for a Student.
+
+
+### Project is made for a Special Student.
 
 Project is made by **me([Vatshayan](https://github.com/Vatshayan))**
+
+### Gmail : Vatshayan007@gmail.com
